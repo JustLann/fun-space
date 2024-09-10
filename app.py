@@ -12,3 +12,7 @@ def datar():
     print("datar Segitiga Adalah :", datars)
 datar()
 
+def coba():
+    m = input("Masukkan Aja si : ")
+    print(m)
+coba()
